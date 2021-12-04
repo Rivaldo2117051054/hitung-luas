@@ -10,7 +10,7 @@ int main(){
 	//masukan lebar
 	
 	luas=p*l;
-	//panjang kali lebar
+	//luas = panjang kali lebar
 	
 	cout<<"luasnya adalah = "<<luas<<endl;
 }
